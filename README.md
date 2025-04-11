@@ -56,5 +56,3 @@ This project leverages Tableau to analyze Airbnb data and create insightful visu
 - Automate data cleaning and visualization updates using Tableau Prep or Python scripts.
 
 ---
-
-Feel free to tweak the content based on the exact dataset and visualizations used. Let me know if you’d like additional sections added!
